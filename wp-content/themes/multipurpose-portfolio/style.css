@@ -822,7 +822,7 @@ ul.list_nav {
 .wrap input[type="submit"] {
   width: 50px;
   padding:  10px;
-  background: url(http://sigfyg.github.io/sigfyg/wp-content/themes/multipurpose-portfolio/images/search.png) no-repeat 12px center;
+  background: url(images/search.png) no-repeat 12px center;
   text-indent: -10000px;
   position: absolute;
   top: 4px;
@@ -1042,7 +1042,7 @@ input.search-field {
   letter-spacing: 1px;
   padding: 10px 10px 10px 2.3em;
   margin-bottom: 10px;
-  background: url(http://sigfyg.github.io/sigfyg/wp-content/themes/multipurpose-portfolio/images/service-head.png) no-repeat left center;
+  background: url(images/service-head.png) no-repeat left center;
 }
 .service-content p {
   font-size: 14px;
