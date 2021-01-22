@@ -20,16 +20,16 @@
 
 title: Justin Ting
 email: justin.ting1844@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  "Personal website of Justin Ting from Georgia Tech."
+# description: >- # this means to ignore newlines until "baseurl:"
+#   "Personal website of Justin Ting from Georgia Tech."
 baseurl: /sigfyg # the subpath of your site, e.g. /blog
 url: https://sigfyg.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username: SigFyg
 
 # Build settings
 remote_theme: SigFyg/multipurpose-portfolio
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
