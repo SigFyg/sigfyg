@@ -90,9 +90,11 @@ img.emoji {
 			.nav-menu ul li a:hover{border-left-color: #000a00;} 
 			.nav-menu ul li a:hover{color: #000a00;} 
 		} .nav-menu ul ul a:hover{border-left-color: #000a00;} .back-to-top::before{border-bottom-color: #000a00;}  input.search-field, .blog-sec, .inner, .woocommerce-message, .woocommerce ul.products li.product, .woocommerce-page ul.products li.product, #sidebar .widget, .pagination a:hover, .pagination .current, .tags a:hover, .nav-menu ul ul, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span{border-color: #000a00;}body{max-width: 100%;}#banner img{opacity:0.9}#banner .banner-box{text-align:right;}#banner .banner-box{left: auto; right:9%;}#banner .social-media{right:auto; left: 10%;}@media screen and (max-width: 720px) and (min-width: 320px){#banner .banner-box{width:auto; }#banner .social-media{right: 10%; left:auto; text-align:right;}} 
-/*		.tg-loader{border-color: #8224e3;}  
+
+		.tg-loader{border-color: #8224e3;}  
 		.tg-loader-inner, .preloader .preloader-container .animated-preloader, .preloader .preloader-container .animated-preloader:before{background-color: #8224e3;}  
-		#overlayer, .preloader{background-color: #ffffff;}  */
+		#overlayer, .preloader{background-color: #ffffff;}  
+		
 		.page-template-custom-front-page #header{top: 10px;} .blogbtn a, .read-more a, #comments input[type="submit"].submit{border-radius: 0px;}#footer .copyright p{text-align: center;}#footer .copyright p{font-size: px;}.page-template-custom-front-page #header{position: static; background-color:#efefef; padding: 10px 0;}.top-bar, .page-template-custom-front-page .top-bar{padding-top: px; padding-bottom: 10px; }.woocommerce ul.products li.product, .woocommerce-page ul.products li.product{padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px;}.woocommerce ul.products li.product .button, .woocommerce div.product form.cart .button, a.button.wc-forward, .woocommerce .cart .button, .woocommerce .cart input.button, .woocommerce #payment #place_order, .woocommerce-page #payment #place_order, button.woocommerce-button.button.woocommerce-form-login__submit, .woocommerce button.button:disabled, .woocommerce button.button:disabled[disabled]{padding-top: 10px; padding-bottom: 10px; padding-left: 15px; padding-right: 15px;}.woocommerce span.onsale {border-radius: 50px;}.woocommerce ul.products li.product .onsale{ left:auto; right:0;}#banner img {opacity: 1;}#banner {background-color: #ffffff;}#comments textarea{ width:100%;}.footerinner{background: url(wp-content/uploads/2021/01/electrons.jpg);} .fixed-header{ padding-top: px; padding-bottom: px}.nav-menu li a{font-size: 21px;}#page-site-header{background-image: url(wp-content/uploads/2021/01/cropped-neuron-scaled-1.jpg); background-size: cover;}
 
         #header{
@@ -237,12 +239,12 @@ body.custom-background { background-color: #fcfcfc; }
   </div>
 </footer>
 <!-- <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/isotope.pkgd.min.js?ver=3.0.5' id='isotope-pkgd-js'></script> -->
-<script type='text/javascript' src='wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<!-- <script type='text/javascript' src='wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script> -->
 <!-- <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/raratheme-companion-public.min.js?ver=1.3.6' id='raratheme-companion-js'></script>
 <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/fontawesome/all.min.js?ver=5.6.3' id='all-js'></script>
 <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/fontawesome/v4-shims.min.js?ver=5.6.3' id='v4-shims-js'></script> -->
-<script type='text/javascript' src='wp-content/themes/multipurpose-portfolio/js/jquery.superfish.js?ver=5.6' id='jquery-superfish-js'></script>
-<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+<!-- <script type='text/javascript' src='wp-content/themes/multipurpose-portfolio/js/jquery.superfish.js?ver=5.6' id='jquery-superfish-js'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script> -->
 </body>
 </html>
