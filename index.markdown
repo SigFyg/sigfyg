@@ -232,12 +232,12 @@ body.custom-background { background-color: #fcfcfc; }
     </div>
   </div>
 </footer>
-<script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/isotope.pkgd.min.js?ver=3.0.5' id='isotope-pkgd-js'></script>
+<!-- <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/isotope.pkgd.min.js?ver=3.0.5' id='isotope-pkgd-js'></script> -->
 <script type='text/javascript' src='wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
 <script type='text/javascript' src='wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
-<script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/raratheme-companion-public.min.js?ver=1.3.6' id='raratheme-companion-js'></script>
+<!-- <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/raratheme-companion-public.min.js?ver=1.3.6' id='raratheme-companion-js'></script>
 <script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/fontawesome/all.min.js?ver=5.6.3' id='all-js'></script>
-<script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/fontawesome/v4-shims.min.js?ver=5.6.3' id='v4-shims-js'></script>
+<script type='text/javascript' src='wp-content/plugins/raratheme-companion/public/js/fontawesome/v4-shims.min.js?ver=5.6.3' id='v4-shims-js'></script> -->
 <script type='text/javascript' src='wp-content/themes/multipurpose-portfolio/js/jquery.superfish.js?ver=5.6' id='jquery-superfish-js'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
 </body>
