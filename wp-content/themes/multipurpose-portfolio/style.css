@@ -479,7 +479,8 @@ ul.list_nav {
   height:100%;  
   position:fixed;
   z-index:9999;
-  background:#fff;
+/*  background:#fff;*/
+  background:#000;
 }
 .tg-loader {
   display: inline-block;
