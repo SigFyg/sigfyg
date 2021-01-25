@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-<!-- layout: default
---- -->
+layout: none
+---
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
@@ -113,8 +113,8 @@ img.emoji {
 <link rel="https://api.w.org/" href="wp-json" /><link rel="alternate" type="application/json" href="http://sigfyg.github.io/sigfyg/wp-json/wp/v2/pages/33" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sigfyg.github.io/sigfyg/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sigfyg.github.io/sigfyg/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.6" />
-<link rel="canonical" href="http://sigfyg.github.io/sigfyg/" />
-<link rel='shortlink' href='http://sigfyg.github.io/sigfyg/' />
+<link rel="canonical" href="http://sigfyg.github.io/sigfyg/_site" />
+<link rel='shortlink' href='http://sigfyg.github.io/sigfyg/_site' />
 <link rel="alternate" type="application/json+oembed" href="http://sigfyg.github.io/sigfyg/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhttp://sigfyg.github.io/sigfyg%2F" />
 <link rel="alternate" type="text/xml+oembed" href="http://sigfyg.github.io/sigfyg/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhttp://sigfyg.github.io/sigfyg%2F&#038;format=xml" />
 
@@ -153,9 +153,9 @@ body.custom-background { background-color: #fcfcfc; }
 							width: 199px;
 							}
 						</style>
-						<a href="http://sigfyg.github.io/sigfyg/" class="custom-logo-link" rel="home" aria-current="page"><img width="240" height="77" src="wp-content/uploads/2021/01/cropped-banner_transparent-1.png" class="custom-logo" alt="Justin Ting" /></a>
+						<a href="http://sigfyg.github.io/sigfyg/_site" class="custom-logo-link" rel="home" aria-current="page"><img width="240" height="77" src="wp-content/uploads/2021/01/cropped-banner_transparent-1.png" class="custom-logo" alt="Justin Ting" /></a>
 					</div>
-					<p class="site-title"><a href="http://sigfyg.github.io/sigfyg/" rel="home">Justin Ting</a></p>
+					<p class="site-title"><a href="http://sigfyg.github.io/sigfyg/_site" rel="home">Justin Ting</a></p>
 				</div>
 			</div>
 				<div class="col-lg-9 col-md-8 pl-0">
@@ -164,7 +164,7 @@ body.custom-background { background-color: #fcfcfc; }
 						    <div class="col-lg-12 col-md-11">
 						        <div id="sidelong-menu" class="nav side-nav">
 						            <nav id="primary-site-navigation" class="nav-menu" role="navigation" aria-label="Top Menu">
-						              <div class="main-menu-navigation clearfix"><ul id="menu-main-menu" class="clearfix mobile_nav"><li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-33 current_page_item menu-item-62"><a href="http://sigfyg.github.io/sigfyg/" aria-current="page">Home</a></li>
+						              <div class="main-menu-navigation clearfix"><ul id="menu-main-menu" class="clearfix mobile_nav"><li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-33 current_page_item menu-item-62"><a href="http://sigfyg.github.io/sigfyg/_site" aria-current="page">Home</a></li>
 <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="research">Research</a></li>
 <li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="publications">Publications</a></li>
 <li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="resume">Resume</a></li>
@@ -190,7 +190,7 @@ body.custom-background { background-color: #fcfcfc; }
                                     <div id="wrapper">
                     <div class="feature-box">
                         <div class="bradcrumbs">
-                            <a href="http://sigfyg.github.io/sigfyg/">Justin Ting</a> Home                        </div>
+                            <a href="http://sigfyg.github.io/sigfyg/_site">Justin Ting</a> Home                        </div>
                     </div>
                     <div class="feature-box">
                         <h1>Home</h1>
