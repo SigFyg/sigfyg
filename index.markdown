@@ -155,7 +155,7 @@ body.custom-background { background-color: #fcfcfc; }
 						</style>
 						<a href="http://sigfyg.github.io/sigfyg" class="custom-logo-link" rel="home" aria-current="page"><img width="240" height="77" src="wp-content/uploads/2021/01/cropped-banner_transparent-1.png" class="custom-logo" alt="Justin Ting" /></a>
 					</div>
-					<p class="site-title"><a href="http://sigfyg.github.io/sigfyg" rel="home">Justin Ting</a></p>
+<!-- 					<p class="site-title"><a href="http://sigfyg.github.io/sigfyg" rel="home">Justin Ting</a></p> -->
 				</div>
 			</div>
 				<div class="col-lg-9 col-md-8 pl-0">
