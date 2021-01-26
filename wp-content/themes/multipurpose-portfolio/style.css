@@ -1953,7 +1953,7 @@ span.post-title {
     visibility: hidden;
     right: 0;
     overflow-y: scroll;
-    background-color: #000;
+    background-color: #fff;
     overflow-x: hidden;
     transition: 0.5s top ease-in-out;
     padding-top: 60px;
