@@ -203,7 +203,7 @@ input[type='submit']:hover{
 	margin-left: auto;
 	margin-right: auto;
 	margin-top:0;
-	border:1px solid #bbb;
+	border:0px solid #bbb;
 }
 .comment-list .comment-content ul {
 	list-style:none;
