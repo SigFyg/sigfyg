@@ -44,13 +44,13 @@ jQuery(function($){
 	});
 
 	$(window).load(function() {
-		$(".tg-loader").delay(1000).fadeOut("slow");
-	    $("#overlayer").delay(1000).fadeOut("slow");
+		$(".tg-loader").delay(500).fadeOut("slow");
+	    $("#overlayer").delay(500).fadeOut("slow");
 	});
 
 	$(window).load(function() {
-		$(".preloader").delay(1000).fadeOut("slow");
-	    $(".preloader .preloader-container").delay(1000).fadeOut("slow");
+		$(".preloader").delay(500).fadeOut("slow");
+	    $(".preloader .preloader-container").delay(500).fadeOut("slow");
 	});
 
 	// back to top.
