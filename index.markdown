@@ -107,10 +107,10 @@ img.emoji {
 <link rel='stylesheet' id='block-style-css'  href='wp-content/themes/multipurpose-portfolio/css/blocks-style.css' type='text/css' media='all' />
 <!-- <link rel='stylesheet' id='animate-css'  href='wp-content/themes/multipurpose-portfolio/css/animate.css' type='text/css' media='all' /> -->
 
-<!-- <script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='wp-content/themes/multipurpose-portfolio/js/custom.js?ver=5.6' id='multipurpose-portfolio-customscripts-js'></script>
-<script type='text/javascript' src='http://sigfyg.github.io/sigfyg/wp-content/themes/multipurpose-portfolio/js/bootstrap.js?ver=5.6' id='bootstrap-js'></script> -->
+<!-- <script type='text/javascript' src='http://sigfyg.github.io/sigfyg/wp-content/themes/multipurpose-portfolio/js/bootstrap.js?ver=5.6' id='bootstrap-js'></script> -->
 
 <link rel="https://api.w.org/" href="wp-json" /><link rel="alternate" type="application/json" href="http://sigfyg.github.io/sigfyg/wp-json/wp/v2/pages/33" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sigfyg.github.io/sigfyg/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sigfyg.github.io/sigfyg/wp-includes/wlwmanifest.xml" /> 
@@ -132,10 +132,10 @@ body.custom-background { background-color: #fcfcfc; }
 </head>
 <body class="home page-template-default page page-id-33 custom-background wp-custom-logo">
 		
-<!-- <div id="overlayer"></div>
+<div id="overlayer"></div>
 <span class="tg-loader">
 	<span class="tg-loader-inner"></span>
-</span> -->
+</span>
 <header role="banner">
 <!-- <a class="screen-reader-text skip-link" href="#maincontent">Skip to content<span class="screen-reader-text">Skip to content</span></a> -->
 	<div class="toggle-menu responsive-menu">
