@@ -26,7 +26,7 @@ baseurl: "/sigfyg" # the subpath of your site, e.g. /blog
 url: "http://sigfyg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
 github_username:  SigFyg
-
+timezone: America/New_York
 # Build settings
 # theme: minima
 # remote_theme: SigFyg/multipurpose-portfolio
