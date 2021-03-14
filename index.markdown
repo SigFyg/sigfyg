@@ -204,7 +204,7 @@ body.custom-background { background-color: #fcfcfc; }
 
 <div class="wp-block-columns">
 <div class="wp-block-column">
-<p>I graduated from Georgia Tech in Fall 2020 with a B.S. in Electrical Engineering and a Minor in Computer Science. My research interests include robotics, neuromorphic computing, mixed-signal circuits, and control theory. I wrote a proposal on universal actuation while doing research at Georgia Tech, which I hope to design and test during my PhD (acceptances pending). If you want to learn more, feel free to continue exploring my website. I hope you like what you find.</p>
+<p>I'm a PhD student at the University of Michigan Ann-Arbor. I graduated from Georgia Tech in Fall 2020 with a B.S. in Electrical Engineering and a Minor in Computer Science. My research interests include robotics, neuromorphic computing, mixed-signal circuits, and control theory. I am currently working on my <a href="../wp-content/uploads/2021/01/Ting_Research_Proposal_website-1.pdf">universal acuation proposal</a>. If you want to learn more, feel free to continue exploring my website. I hope you like what you find.</p>
 </div>
 
 
